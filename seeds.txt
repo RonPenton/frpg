@@ -1,0 +1,30 @@
+0 - nothing
+257 - broccoli
+66 - cabbage
+255 - cotton
+
+
+12 - pepper
+20 - carrot
+28 - pea
+30 - cucumber
+14 - eggplant
+32 - radish
+34 - onion
+47 - hops
+49 - potato
+16 - tomato
+51 - leek
+60 - watermelon
+64 - corn
+66 - cabbage
+410 - pine
+68 - pumpkin
+70 - wheat
+395 - mushroom
+257 - broccoli
+255 - cotton
+374 - sunflower
+449 - beet
+631 - rice
+

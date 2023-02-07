@@ -1,0 +1,15 @@
+items:
+500 - large net
+75 - mushroom paste
+36 - wood plank
+427 - yarn
+127 - wooden shield
+37 - wooden box
+72 - wooden barrel
+328 - wagon wheel
+163 - twine
+252 - treasure chest
+55 - sturdy box
+193 - rope
+536 - red dye
+538 - red shield
